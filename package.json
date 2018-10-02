@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "my website ",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my_portfolio"
+  },
+  "author": "wanne",
+  "license": "MIT",
+  "homepage": "https://denni2.github.io/portfolio",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
